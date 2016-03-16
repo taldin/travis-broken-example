@@ -1,5 +1,5 @@
 <?php
-let test_a=require('./test_a');
+require('./test_a');
 class Test extends PHPUnit_Framework_TestCase
 {
 	public function testOnePlusOne() {
