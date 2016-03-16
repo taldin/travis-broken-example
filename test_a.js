@@ -1,6 +1,6 @@
 let x = 1;
 
-test:(m) {
+function test (m) {
  return (m+x);
  }
  
