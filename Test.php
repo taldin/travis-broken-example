@@ -10,7 +10,7 @@ class Test extends PHPUnit_Framework_TestCase
   	}
   	
   	public function testa() {
-  		$this->assertEquals(test_a(1),1);
+  		$this->assertEquals(test_a.test(1),1);
   	}
 }
 
